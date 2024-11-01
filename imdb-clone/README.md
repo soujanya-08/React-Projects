@@ -7,7 +7,7 @@ It is a library for managing routes in React applications, allowing you to creat
 Context provides a way to share data globally across components without having to pass props manually through every level of the component tree. 
 
 ## React.createContext() -> create new context
-## COntext.Provider -> provide context through value={}
+## Context.Provider -> provide context through value={}
 ## useContext() -> access context values
 
 ## `npm install -D tailwindcss`
